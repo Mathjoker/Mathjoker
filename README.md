@@ -17,7 +17,6 @@
 <a href="http://www.linkedin.com/in/matheus-bitencourt-851326256" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
 
-![Snake animation](https://github.com/Mathjoker/matheusBitencourt/blob/output/github-contribution-grid-snake.svg)
  
 ### Main skills:
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=white)&nbsp;
