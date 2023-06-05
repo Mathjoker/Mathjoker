@@ -13,8 +13,8 @@
 </p>
 
 <div align="center">  
-<a href="https://www.instagram.com/matheusde286/" target="_blink"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="http://www.linkedin.com/in/matheus-bitencourt-851326256" target="_blink"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.instagram.com/matheusde286/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="http://www.linkedin.com/in/matheus-bitencourt-851326256" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
 
  
