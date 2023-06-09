@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Mathjoker&show_icons=true&count_private=true&hide_border=true&title_color=20b2d8&icon_color=20b2d8&text_color=c9d1d9&bg_color=0d1117" alt="Matheus de Souza Bitencourt github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Mathjoker&show_icons=true&theme=transparent"/>
 </div>
 
 
