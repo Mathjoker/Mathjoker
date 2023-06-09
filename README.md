@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00a1ff&size=35&center=true&vCenter=true&width=1000&lines=Olá!+meu+nome+é+Matheus+Souza+Bitencourt;Eu+tenho+28+anos;Sou+de+Cataguases,+MG;Sou+estudante+Sistema+de+Informação+;Sejá+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-username=Mathjoker&show_icons=true&count_private=true&hide_border=true&title_color=20b2d8&icon_color=20b2d8&text_color=c9d1d9&bg_color=0d1117" alt="Matheus de Souza Bitencourt github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathjoker&layout=compact&theme=transparent"/>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Mathjoker&show_icons=true&theme=transparent"/>
 </div>
 
@@ -16,7 +16,7 @@ username=Mathjoker&show_icons=true&count_private=true&hide_border=true&title_col
 <a href="https://www.instagram.com/matheusde286/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="http://www.linkedin.com/in/matheus-bitencourt-851326256" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
-
+ 
  
 ### Main skills:
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=white)&nbsp;
